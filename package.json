@@ -1,0 +1,6 @@
+{
+  "name": "color",
+  "version": "0.1.0",
+  "repo": "modocache/color.c",
+  "src": ["src/color.h", "src/color.c"]
+}
